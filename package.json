@@ -1,0 +1,18 @@
+{
+  "name": "http-status-codes",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "http-status-code": "^2.1.0",
+    "http-status-emojis": "^2.2.0"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/ejs": "^3.1.5"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
